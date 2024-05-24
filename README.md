@@ -11,7 +11,7 @@ I don't function without espresso (a lot of it) and in my free time I like trave
 Interested in AI on embedded devices (edge IoT) for security and privacy (mainly vision based at the moment, DNN, CNN type models)
 
 I am on IRC (libera.chat) @ lemonlime0x3C33
-You can reach out but there is a good chance I see your message and forget to respond, remember a week or later and feel awakward reaching out... (I am very easily distracted)
+You can reach out but there is a good chance I see your message and forget to respond, get distracted with something new, remember a week or later and feel awakward reaching out... 
 
 
 ### ⚙️ &nbsp;lemonlime0x3C33's GitHub Analytics
