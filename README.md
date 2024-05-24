@@ -1,4 +1,7 @@
-![MasterHead](https://24.media.tumblr.com/9d11c39fb368c745d57fe82277217678/tumblr_mr00jr4lUh1se3vdgo1_500.gif)
+<p align="center">
+  <img src="https://24.media.tumblr.com/9d11c39fb368c745d57fe82277217678/tumblr_mr00jr4lUh1se3vdgo1_500.gif" />
+</p>
+
 
 ### About Me
 I'm a computer/electrical engineer who sucks at coding and can't spell, likes PCB design (the more layers the better!), robotics, all things IoT, hardware reverse engineering/VR
