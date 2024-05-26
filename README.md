@@ -4,11 +4,11 @@
 
 
 ### About Me
-I'm a computer/electrical engineer who sucks at coding and can't spell, likes PCB design (the more layers the better!), robotics, all things IoT, hardware reverse engineering/VR
+I'm a computer engineer who sucks at coding and can't spell, enjoys PCB design, robotics, IoT, hardware reverse engineering/VR
 
-I don't function without espresso (a lot of it) and in my free time I like traveling, card/board/video games, reading, wine & research
+I don't function without espresso and in my free time I like traveling, games, reading, & research
 
-Interested in AI on embedded devices (edge IoT) for security and privacy (mainly vision based at the moment, DNN, CNN type models)
+Interested in AI on embedded devices for security and privacy
 
 I am on IRC (libera.chat) @ lemonlime0x3C33
 You can reach out but there is a good chance I see your message and forget to respond, get distracted with something new, remember a week or later and feel awakward reaching out... 
