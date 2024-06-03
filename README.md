@@ -11,7 +11,7 @@ I don't function without espresso and in my free time I like traveling, games, r
 Interested in AI on embedded devices for security and privacy
 
 I am on IRC (libera.chat) @ lemonlime0x3C33
-You can reach out but there is a good chance I see your message and forget to respond, get distracted with something new, remember a week or later and feel awakward reaching out... 
+
 
 
 ### ⚙️ &nbsp;lemonlime0x3C33's GitHub Analytics
