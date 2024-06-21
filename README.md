@@ -10,6 +10,8 @@ I don't function without espresso and in my free time I like traveling, games, r
 
 Interested in AI on embedded devices for security and privacy
 
+For hardware teardowns and fun check out https://lemonlime0x3c33.io/ 
+
 I am on IRC (libera.chat) @ lemonlime0x3C33
 
 
